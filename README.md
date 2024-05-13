@@ -12,3 +12,6 @@
 
 ## ssdpscan.py
 进行ssdp接口扫描
+
+## get_windows_info.py
+查看windows系统信息
