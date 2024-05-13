@@ -9,3 +9,6 @@
 
 ## printAllBTInfo.py
 打印所有蓝牙信息，包括支持经典蓝牙和BLE、广播信息、功能、SDP接口、GATT接口等
+
+## ssdpscan.py
+进行ssdp接口扫描
